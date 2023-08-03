@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abdurrahman Onat
-- 👀 I’m interested in Embedded Software Development, Python, C#
-- 🌱 I’m currently learning PHP and Laravel
+- 👀 I’m interested in Embedded Software Development, Python, C#, Game Development in Unity
+- 🌱 I’m currently learning Game Design and Game Development
 - 💞️ I’m looking to collaborate on microcontroller desing and developmen
 - 📫 abdurrahman.onat@outlook.com.tr
 
