@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Abdurrahman Onat
 - 👀 I’m interested in Embedded Software Development, Python, C#, Game Development in Unity
 - 🌱 I’m currently learning Game Design and Game Development
-- 💞️ I’m looking to collaborate on microcontroller desing and developmen
+- 💞️ I’m looking to collaborate on microcontroller desing and development
+- 🔎 I'm looking for a new job on Embedded Engineering or similar field
 - 📫 abdurrahman.onat@outlook.com.tr
 
 <!---
